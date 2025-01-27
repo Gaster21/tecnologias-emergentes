@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tecnologías emergentes</title>
+<style>
+            #Imp{
+                background-color:purple;
+            }
+            
+            #Intro{
+                background-color:purple;
+            }
+            #Tecno{
+                background-color:purple;
+            }
+            .lista{
+                background-color:cyan;
+            }
+            body{
+            	font-family:monospace
+            }
+        </style>
+</head>
+<body>
+
+<h1>Tecnologías emergentes</h1>
+<h2>Indice</h2>
+<p><ul>
+<li><a href="#intro">Introducción</a></li>
+<li><a href="#tecno">Tecnologias actuales</a></li>
+<li><a href="#imp">Impacto futuro</a></li>
+</ul></p>
+<h2 id="Intro"><a name="intro">Introduccíon</a></h2>
+<p>Las tecnologías emergentes son innovaciones que incorporan mejoras a desarrollos que se encuentran en etapas todavía tempranas, o incluso el término se puede referir a una mejora continua de una tecnología ya desarrollada.Con el objetivo de ser cada vez mas utiles, precisas y sofisticadas</p>
+
+<h2 id="Tecno"><a name="tecno">Tecnologías actuales</a></h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPRYPIfx0YGiYN1KdTqTxxkJ91OWpA2wKB7Q&s" width="500">
+<p><ul><li><strong class="lista">Inteligencia Artificial (IA)</strong>: La IA abarca un amplio conjunto de técnicas que permiten a las máquinas aprender, razonar y tomar decisiones de manera autónoma. Sus aplicaciones incluyen el reconocimiento de voz, la visión por computadora, el procesamiento del lenguaje natural y la automatización de procesos.</li>
+<li><strong class="lista">Internet de las Cosas (IoT)</strong>: El IoT consiste en la interconexión digital de objetos cotidianos, que pueden recopilar y transmitir datos a través de internet. Esta tecnología está dando lugar a hogares inteligentes, ciudades inteligentes y una mayor eficiencia en diversos sectores.</li>
+<li><strong class="lista">Realidad Virtual (RV) y Realidad Aumentada (RA)</strong>: La RV crea entornos virtuales inmersivos, mientras que la RA superpone elementos digitales al mundo real. Ambas tecnologías tienen aplicaciones en videojuegos, educación, diseño, medicina y otros campos.</li>
+<li><strong class="lista">Blockchain</strong>: La blockchain es una tecnología de registro distribuido que garantiza la seguridad y transparencia de las transacciones. Se utiliza principalmente en el ámbito de las criptomonedas, pero también tiene aplicaciones en otros sectores como la logística y la gestión de la cadena de suministro.</li>
+<li><strong class="lista">Biotecnología</strong>: La biotecnología se enfoca en la aplicación de organismos vivos y sistemas biológicos para desarrollar o crear productos. Sus aplicaciones incluyen la producción de medicamentos, la agricultura y la energía renovable.</li>
+</ul>
+</p>
+<h2 id="Imp"><a name="imp">Impacto futuro</a></h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO9j83PTZBwNfwN_aYmnTIpSmNy5OCFpmIsQ&s"alt="paisaje" width="300">
+<p><ol><li>Cambios en la forma de trabajar: Muchas tareas rutinarias serán automatizadas por robots e inteligencia artificial. Esto significa que los trabajos del futuro requerirán habilidades más creativas y de resolución de problemas.</li>
+<li>Educación personalizada: La tecnología permitirá crear experiencias de aprendizaje más personalizadas y adaptadas a las necesidades de cada estudiante. Imagina tener un tutor virtual que te ayude a entender cualquier concepto difícil.</li>
+<li>Salud más accesible: La tecnología nos ayudará a prevenir enfermedades, diagnosticarlas más rápido y desarrollar nuevos tratamientos. Podremos monitorear nuestra salud desde casa y recibir atención médica a distancia.</li>
+<li>Ciudades inteligentes: Las ciudades del futuro serán más sostenibles y eficientes gracias a la tecnología. Imaginate ciudades con transporte público inteligente, edificios energéticamente eficientes y sistemas de gestión de residuos optimizados.</li>
+</ol>
+</p>
+<p><em>Source: <a href="https://www.telefonica.com/es/sala-comunicacion/blog/6-tecnologias-emergentes-importantes-2023/">6 tecnologias emergentes mas importantes del 2023</a></em></p>
+</body>
+</html>
